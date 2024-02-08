@@ -1,4 +1,4 @@
-# Assignment repository for Big Data Visualization for Business Communications 03
+# Assignment repository for Big Data Visualization for BDM 2203
 
 ## Details
 - **College:** Lambton College
